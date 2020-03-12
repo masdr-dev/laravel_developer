@@ -41,10 +41,10 @@ Bonus Points
     Experience and implementation of laravel caching is a big plus. ..
 
 Please note!
-• Use PHP 7.2+ and the latest releases of Laravel.
-• You have to implement laravel authentication for laravel 6
-• You don't have to implement any frontend UI.
-• Keep your endpoints as RESTful as possible.
-• You have to write meaningful git commits (This is very important in working with us remotely).
-• Push the code to a public repo on your account and send us the link.
-• Also you must track the time you spent on the code honestly (with any tool you want).
+* Use PHP 7.2+ and the latest releases of Laravel.
+* You have to implement laravel authentication for laravel 6
+* You don't have to implement any frontend UI.
+* Keep your endpoints as RESTful as possible.
+* You have to write meaningful git commits (This is very important in working with us remotely).
+* Push the code to a public repo on your account and send us the link.
+* Also you must track the time you spent on the code honestly (with any tool you want).
