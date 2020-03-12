@@ -47,4 +47,4 @@ Please note!
 * Keep your endpoints as RESTful as possible.
 * You have to write meaningful git commits (This is very important in working with us remotely).
 * Push the code to a public repo on your account and send us the link.
-* Also you must track the time you spent on the code honestly (with any tool you want).
+* Also you must track the time you spend on the code honestly (with any tool you want).
