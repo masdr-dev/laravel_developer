@@ -1,6 +1,6 @@
 Laravel Developer Challenge
 
-a challenge for Laravel developer position in Zarcony.
+a challenge for Laravel developer position in Masdr team.
 Create a Pizza order application
 
 Implement the following logic using the Laravel framwork.
