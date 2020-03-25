@@ -42,7 +42,7 @@ Bonus Points
 
 Please note!
 * Use PHP 7.2+ and the latest releases of Laravel.
-* You have to implement laravel authentication for laravel 6
+* You have to implement laravel authentication for laravel 7
 * You don't have to implement any frontend UI.
 * Keep your endpoints as RESTful as possible.
 * You have to write meaningful git commits (This is very important in working with us remotely).
